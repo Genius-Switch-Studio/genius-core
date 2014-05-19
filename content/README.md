@@ -1,0 +1,1 @@
+Put client generated content in this folder.
