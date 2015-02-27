@@ -1,4 +1,7 @@
 #genius-core#
 ===========
-
-stuff about things
+ken = 12
+for (i > ken i++) {
+  var rowan
+  $('.rowan').add('beer');
+}
